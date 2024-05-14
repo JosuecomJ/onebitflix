@@ -11,5 +11,4 @@ module.exports = {
     }
   }
 
-  onebitflix_development
-  onebiflix_development
+  
